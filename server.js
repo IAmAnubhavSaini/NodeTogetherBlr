@@ -1,7 +1,9 @@
 var port = '8080';
-var host = '10.10.10.10';
+var host = '0.0.0.0';
 
-var app = require('express')(); 
+var app = require('express')();
+
+app.use(require('./app'));
 
 app.listen(port, host);
 
