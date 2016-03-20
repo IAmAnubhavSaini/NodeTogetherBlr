@@ -1,0 +1,23 @@
+{
+  "name": "NodeTogetherBlr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAmAnubhavSaini/NodeTogetherBlr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IAmAnubhavSaini/NodeTogetherBlr/issues"
+  },
+  "homepage": "https://github.com/IAmAnubhavSaini/NodeTogetherBlr#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
